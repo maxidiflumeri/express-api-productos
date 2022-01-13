@@ -1,0 +1,1 @@
+[{"nombre":"Queso","precio":200,"id":1},{"nombre":"Leche","precio":100,"id":2},{"nombre":"Pan","precio":80,"id":3},{"nombre":"Crema","precio":120,"id":4},{"nombre":"Fideos","precio":50,"id":5}]
