@@ -1,5 +1,4 @@
 import fs from 'fs'
-
 export default class Contenedor {
 
     constructor(nombreArchivo2) {
@@ -28,7 +27,7 @@ export default class Contenedor {
                 objeto.id = id
                 productos.push(objeto)
             }else{
-                id = productos.at(-1).id + 1
+                id = productos[productos.length-1].id + 1
                 objeto.id = id
                 productos.push(objeto)
             }
